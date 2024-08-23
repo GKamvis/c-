@@ -1,0 +1,77 @@
+﻿@model ViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Mədaxil</a>
+</p>
+<p>
+    <a asp-action="Expense">Məxaric</a>
+</p>
+
+<p>
+    <a asp-action="GetBalance">Balans</a>
+</p>
+
+
+<h2>Mədaxillar</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Miqdar</th>
+            <th>Açıqlama</th>
+            <th>Tarix</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medaxil in Model.Medaxillar)
+        {
+            <tr>
+                <td>@medaxil.Id</td>
+                <td>@medaxil.Miqdar</td>
+                <td>@medaxil.Aciqlama</td>
+                <td>@medaxil.Tarix?.ToString("dd/MM/yyyy")</td>
+                <td>
+                   @*  @Html.ActionLink("Edit", "Edit", new { id = medaxil.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = medaxil.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = medaxil.Id }) *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Məxaricler</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Miqdar</th>
+            <th>Açıqlama</th>
+            <th>Tarix</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mexaric in Model.Mexaricler)
+        {
+            <tr>
+                <td>@mexaric.Id</td>
+                <td>@mexaric.Miqdar</td>
+                <td>@mexaric.Aciqlama</td>
+                <td>@mexaric.Tarix?.ToString("dd/MM/yyyy")</td>
+                <td>
+                @*     @Html.ActionLink("Edit", "Edit", new { id = mexaric.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = mexaric.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = mexaric.Id }) *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

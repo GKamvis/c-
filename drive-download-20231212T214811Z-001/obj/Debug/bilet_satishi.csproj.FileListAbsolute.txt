@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\bilet_satishi\bin\Debug\bilet_satishi.exe.config
+C:\Users\user\source\repos\bilet_satishi\bin\Debug\bilet_satishi.exe
+C:\Users\user\source\repos\bilet_satishi\bin\Debug\bilet_satishi.pdb
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.Properties.Resources.resources
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.exe
+C:\Users\user\source\repos\bilet_satishi\obj\Debug\bilet_satishi.pdb

@@ -1,0 +1,6 @@
+@Webapi_student_questionnaire_HostAddress = http://localhost:5051
+
+GET {{Webapi_student_questionnaire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

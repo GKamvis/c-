@@ -1,0 +1,15 @@
+﻿@model IEnumerable<WebApplication3_delivery.Models.Login>
+@using (Html.BeginForm("SaveResult", "Home", FormMethod.Post))
+{
+    <div>
+        <label for="teamName">Komanda Adı:</label>
+        <input type="text" id="teamName" name="teamName" required />
+        <br>
+    </div>
+    <div>
+        <label for="result">Nəticə:</label>
+        <input type="number" id="result" name="result" required />
+        <Br>
+    </div>
+    <button type="submit">Göndər</button>
+}

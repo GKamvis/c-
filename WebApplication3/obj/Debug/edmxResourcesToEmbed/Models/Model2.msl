@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1Model1StoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="Table3">
+      <EntityTypeMapping TypeName="Database1Model1.Table3">
+        <MappingFragment StoreEntitySet="Table3">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="qebul_edilsin" ColumnName="qebul_edilsin" />
+          <ScalarProperty Name="teklif_miqdari" ColumnName="teklif_miqdari" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

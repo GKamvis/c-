@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Api_Wholesale\bin\Debug\Api_Wholesale.exe.config
+C:\Users\user\source\repos\Api_Wholesale\bin\Debug\Api_Wholesale.exe
+C:\Users\user\source\repos\Api_Wholesale\bin\Debug\Api_Wholesale.pdb
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.Form1.resources
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.Properties.Resources.resources
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.exe
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.pdb
+C:\Users\user\source\repos\Api_Wholesale\obj\Debug\Api_Wholesale.Form2.resources

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1Model2StoreContainer" CdmEntityContainer="Database1Entities2">
+    <EntitySetMapping Name="Table1">
+      <EntityTypeMapping TypeName="Database1Model2.Table1">
+        <MappingFragment StoreEntitySet="Table1">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Table4">
+      <EntityTypeMapping TypeName="Database1Model2.Table4">
+        <MappingFragment StoreEntitySet="Table4">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="time" ColumnName="time" />
+          <ScalarProperty Name="mesage" ColumnName="mesage" />
+          <ScalarProperty Name="qiymet" ColumnName="qiymet" />
+          <ScalarProperty Name="qebul_edilsin" ColumnName="qebul_edilsin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

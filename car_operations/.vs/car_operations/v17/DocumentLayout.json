@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\car_operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\controllers\\reportcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\controllers\\reportcarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\models\\operationcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\models\\operationcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\models\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\models\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\models\\carscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\models\\carscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|c:\\users\\user\\source\\repos\\car_operations\\car_operations\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1C406-7A6E-4FD8-8E01-747A0E723A50}|car_operations\\car_operations.csproj|solutionrelative:car_operations\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "car_operations\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "car_operations\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:13:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Program.cs",
+              "RelativeDocumentMoniker": "car_operations\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Program.cs",
+              "RelativeToolTip": "car_operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:55.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportCarController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\ReportCarController.cs",
+              "RelativeDocumentMoniker": "car_operations\\Controllers\\ReportCarController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\ReportCarController.cs",
+              "RelativeToolTip": "car_operations\\Controllers\\ReportCarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:47.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\OperationCarDto.cs",
+              "RelativeDocumentMoniker": "car_operations\\Models\\OperationCarDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\OperationCarDto.cs",
+              "RelativeToolTip": "car_operations\\Models\\OperationCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarStatus.cs",
+              "RelativeDocumentMoniker": "car_operations\\Models\\CarStatus.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarStatus.cs",
+              "RelativeToolTip": "car_operations\\Models\\CarStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarsContext.cs",
+              "RelativeDocumentMoniker": "car_operations\\Models\\CarsContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarsContext.cs",
+              "RelativeToolTip": "car_operations\\Models\\CarsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "car_operations\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Models\\CarModel.cs",
+              "RelativeToolTip": "car_operations\\Models\\CarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\OperationsController.cs",
+              "RelativeDocumentMoniker": "car_operations\\Controllers\\OperationsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\car_operations\\car_operations\\Controllers\\OperationsController.cs",
+              "RelativeToolTip": "car_operations\\Controllers\\OperationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:29.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

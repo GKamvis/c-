@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Webapi_student_questionnaire.props" />
+</Project>

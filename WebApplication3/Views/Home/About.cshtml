@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MyModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @*Html.ActionLink("Yenisini yarat", "Create")*@
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.city)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.adress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.time)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.mesage)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.city)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.adress)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.time)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.mesage)
+    </td>
+    <td>
+        @*<button onclick="sendMessage('@item.Id')">Mesaj göndər</button>*@
+    </td>
+    <td>
+        @Html.ActionLink("Contact", "Contact", new { id = item.Id }) 
+       
+    </td>
+</tr>
+    }
+
+</table>
+
+<script>
+    //function sendMessage(id) {
+    // Mesaj gönderme işlemini burada gerçekleştirin
+   // alert("Mesaj gönderildi: " + id);
+
+    // İlgili mesajı getirmek için Contact sayfasına yönlendirin
+     //   window.location.href = '@Url.Action("Contact", "Home")' + '?id=' + id; // Home controllerdakı Contact actionı
+}
+</script>

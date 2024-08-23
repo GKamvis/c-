@@ -1,0 +1,149 @@
+﻿@model webapi_2mvc.Models.StudentviewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>StudentviewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="id" class="control-label"></label>
+                <input asp-for="id" class="form-control" />
+                <span asp-validation-for="id" class="text-danger"></span>
+            </div>
+@*             <div class="form-group">
+                <label asp-for="Ad" class="control-label"></label>
+                <input asp-for="Ad" class="form-control" />
+                <span asp-validation-for="Ad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soyad" class="control-label"></label>
+                <input asp-for="Soyad" class="form-control" />
+                <span asp-validation-for="Soyad" class="text-danger"></span>
+            </div> *@
+            <div class="form-group">
+                <label asp-for="problemSolving" class="control-label"></label>
+                <select asp-for="problemSolving" class="form-control">
+                    <option value="">Seçin...</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <span asp-validation-for="problemSolving" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="oop" class="control-label"></label>
+                <select asp-for="oop" class="form-control">
+                    <option value="">Seçin...</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>                <span asp-validation-for="oop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cleancode" class="control-label"></label>
+                <select asp-for="cleancode" class="form-control">
+                    <option value="">Seçin...</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <span asp-validation-for="cleancode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="algorithm" class="control-label"></label>
+                <select asp-for="algorithm" class="form-control">
+                    <option value="">Seçin...</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>                <span asp-validation-for="algorithm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="teamwork" class="control-label"></label>
+                <select asp-for="teamwork" class="form-control">
+                    <option value="">Seçin...</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>                <span asp-validation-for="teamwork" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<style>
+    /* Form stilini tənzimləyin */
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    /* Label stilini tənzimləyin */
+    .control-label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    /* Input stilini tənzimləyin */
+    .form-control {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box; /* Kutu ölçüsünü border daxil hesab edir */
+        margin-bottom: 10px; /* Alt elementlərlə arada məsafə yaradır */
+    }
+
+    /* Validation mesajlarının stilini tənzimləyin */
+    .text-danger {
+        color: #a94442; /* Qırmızı rəngli xəta mesajları */
+    }
+
+    /* Düymə stilini tənzimləyin */
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /* Link stilini tənzimləyin */
+    a {
+        color: #007bff;
+        text-decoration: none; /* Altıxəttini silir */
+    }
+
+        a:hover {
+            text-decoration: underline; /* Üzərinə gələndə altıxətt çəkir */
+        }
+
+</style>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

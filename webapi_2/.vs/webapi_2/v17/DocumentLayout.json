@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\webapi_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\webapi_2mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|solutionrelative:webapi_2mvc\\webapi_2mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2\\webapi_2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|solutionrelative:webapi_2\\webapi_2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|solutionrelative:webapi_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2\\models\\kamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|solutionrelative:webapi_2\\models\\kamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|solutionrelative:webapi_2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7332F66-4BCB-4470-BCC6-BD64BEF81209}|webapi_2\\webapi_2.csproj|solutionrelative:webapi_2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|solutionrelative:webapi_2mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|c:\\users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32F76833-D4E5-404E-8183-303B2343EF1E}|webapi_2mvc\\webapi_2mvc.csproj|solutionrelative:webapi_2mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webapi_2mvc",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\webapi_2mvc.csproj",
+              "RelativeDocumentMoniker": "webapi_2mvc\\webapi_2mvc.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\webapi_2mvc.csproj",
+              "RelativeToolTip": "webapi_2mvc\\webapi_2mvc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T14:08:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "webapi_2.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\webapi_2.http",
+              "RelativeDocumentMoniker": "webapi_2\\webapi_2.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\webapi_2.http",
+              "RelativeToolTip": "webapi_2\\webapi_2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T14:08:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Program.cs",
+              "RelativeDocumentMoniker": "webapi_2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Program.cs",
+              "RelativeToolTip": "webapi_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:43:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KamDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Models\\KamDbContext.cs",
+              "RelativeDocumentMoniker": "webapi_2\\Models\\KamDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Models\\KamDbContext.cs",
+              "RelativeToolTip": "webapi_2\\Models\\KamDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:01:22.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "webapi_2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Models\\Student.cs",
+              "RelativeToolTip": "webapi_2\\Models\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:59:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "webapi_2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "webapi_2\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:59:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "webapi_2mvc\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "webapi_2mvc\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T01:46:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "webapi_2mvc\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\webapi_2\\webapi_2mvc\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "webapi_2mvc\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:52:40.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

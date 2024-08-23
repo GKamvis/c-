@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webapi_2mvc.props" />
+</Project>

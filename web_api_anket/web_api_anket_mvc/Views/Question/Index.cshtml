@@ -1,0 +1,54 @@
+﻿@model IEnumerable<web_api_anket_mvc.Models.QuestionViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CreateQuestion">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.QuestionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuestionText)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuestionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuestionText)
+            </td>
+                <td>
+                    <form asp-action="Edit" method="post">
+                        <input type="hidden" name="studentNumber" value="@item.StudentNumber" />
+                        <input type="hidden" name="questionId" value="@item.QuestionId" />
+                        <input type="number" name="score" step="0.1" value="@item.Responses.FirstOrDefault()?.Score" />
+                        <button type="submit" class="btn btn-primary">Update</button>
+                    </form>
+                </td>
+
+
+        </tr>
+}
+    </tbody>
+</table>
+
+

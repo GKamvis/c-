@@ -1,0 +1,6 @@
+@web_api_anket_HostAddress = http://localhost:5253
+
+GET {{web_api_anket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

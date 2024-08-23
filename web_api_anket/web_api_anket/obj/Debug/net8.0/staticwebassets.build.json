@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i9krKOAqZScT9a8HECagRMzaIERurinXuJHfgP2b+lg=",
+  "Source": "web_api_anket",
+  "BasePath": "_content/web_api_anket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

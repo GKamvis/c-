@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\Cpu-temp.exe
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\Cpu-temp.deps.json
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\Cpu-temp.runtimeconfig.json
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\Cpu-temp.dll
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\Cpu-temp.pdb
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\bin\Debug\net8.0\OpenHardwareMonitorLib.dll
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.AssemblyInfo.cs
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.csproj.Up2Date
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.dll
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\refint\Cpu-temp.dll
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.pdb
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\Cpu-temp.genruntimeconfig.cache
+C:\Users\user\source\repos\Cpu-temp\Cpu-temp\obj\Debug\net8.0\ref\Cpu-temp.dll
